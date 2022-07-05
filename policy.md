@@ -11,7 +11,9 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## Conteúdo permitido
 
-1. A plataforma atualmente é destinada exclusivamente para a hospedagem de Bots Discord que estejam dentro dos [Termos de serviço](https://discordapp.com/terms) \(TOS\) da Discord Inc.
+1. A plataforma é destinada para a hospedagem de Bots Discord que estejam dentro dos [Termos de serviço](https://discordapp.com/terms) \(TOS\) da Discord Inc.
+2. Também é permitido a hospedagem de Bots de outras plataformas como Telegram Whatsapp, Twitch e outros.
+3. A Hospedagem de aplicações Web passou a ser possível com a DisCloud V2, desde um simples Site Estático, API, Dashboard e outros.
 
 ## Conteúdo proibido
 
