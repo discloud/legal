@@ -47,7 +47,9 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## Ações proibidas
 
-1 - Enviar \(upload\), distribuir, disseminar ou oferecer para fazer o mesmo com relação a qualquer conteúdo de caráter 2 - difamatório, ofensivo, abusivo, fraudulento, infrator, obsceno ou de outra forma censurável ilegal;
+1 - Enviar \(upload\), distribuir, disseminar ou oferecer para fazer o mesmo com relação a qualquer conteúdo de caráter 
+
+2 - difamatório, ofensivo, abusivo, fraudulento, infrator, obsceno ou de outra forma censurável ilegal;
 
 3 - Distribuir intencionalmente vírus, worms, defeitos, cavalos de Tróia, arquivos corrompidos, trotes, ou quaisquer outros itens de natureza destrutiva ou enganosa;
 
