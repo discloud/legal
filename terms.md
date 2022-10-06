@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-* Última atualização: 25 de novembro de 2019
+* Última atualização: 06 de outubro de 2022
 * Efetividade: 1 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
@@ -45,7 +45,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.2 DisCloud pode remover seus benefícios extras caso não renove sua doação a cada 30 dias.
 
-4.3 Você tem o direito de pedir reembolso, por favor consulte a staff para ver as condições e regras.
+4.3 Discloud não emite reembolso, contamos com um plano gratuito para que o cliente possa usar nossos serviços antes de comprar.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
