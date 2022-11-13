@@ -45,7 +45,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.2 DisCloud pode remover seus benefícios extras caso não renove sua doação a cada 30 dias.
 
-4.3 A Discloud não emite reembolso. Contamos com um plano gratuito para que o cliente possa usar nossos serviços antes de comprar.
+4.3 A Discloud não emite reembolso. Contamos com um plano gratuito para que o cliente possa usar nossos serviços antes de realizar a sua doação.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
