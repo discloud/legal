@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-* Última atualização: 28 de junho de 2023
+* Última atualização: 26 de julho de 2023
 * Efetividade: 1 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma Discloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
@@ -110,7 +110,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## `9.` Manutenções
 
-`9.1` As manutenções dos serviços da Discloud serão realizadas sempre que necessário, podendo ocasionar instabilidade e indisponibilidade parcial ou total dos serviços. Esse período será desconsiderado em qualquer cálculo de SLA. Toda manutenção nos serviços da Discloud, será previamente comunicada através nosso Discord Oficial no canal de Avisos.
+`9.1` As manutenções dos serviços da Discloud serão realizadas sempre que necessário, podendo ocasionar instabilidade e indisponibilidade parcial ou total dos serviços. Esse período será desconsiderado em qualquer cálculo de SLA. Toda manutenção nos serviços da Discloud, será previamente comunicada através nosso Discord Oficial no canal de Status ou na nossa [página de status](https://status.discloud.app/)
 
 ## `10.` Recomendações
 
