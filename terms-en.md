@@ -1,6 +1,6 @@
 # Terms of Service
 
-* Last updated: July 26, 2023
+* Last updated: September 08, 2023
 * Effectiveness: June 1, 2019
 
 This Term establishes the rules for using the Discloud Platform. We inform you that by accepting it you are hiring our services and accepting the conditions presented in this contract. If you do not agree with the terms and conditions presented, do not complete your registration or use our services. The use of the platform implies a tacit hiring of our services and by virtue of this hiring agreement with the clauses presented here.
@@ -17,11 +17,11 @@ If you have any questions about this document, please contact us at [support@dis
 
 `1.3` To use Discloud Services you need to follow, accept and agree with our **Usage Policies**, otherwise you are prevented from using the service.
 
-`1.4` Be aware that to be able to use our services you need to register on our [website](https://discloudbot.com/login). However, it is no longer mandatory to enter our [Discord](https://discord.discloudbot.com) server.
+`1.4` Be aware that to be able to use our services you need to register on our [website](https://discloudbot.com/login).
 
 ## `2.` Your Account and Use of Discloud Services
 
-`2.1` You must provide accurate and complete information whenever you register to use Discloud services. When registering with Discloud through "Third Party Accounts" such as Discord or Github, these platforms will share some information with us, including the Discord ID and/or Github ID (if integrated), email, name and url of your avatar. In addition, Discloud will also collect your IP address. You are responsible for the security of your account and for the use of your account. If you become aware of any unauthorized use of your password or account, you agree to notify Discloud immediately.
+`2.1` You must provide accurate and complete information whenever you register to use Discloud services. When registering with Discloud through “Third-Party Accounts,” these platforms will share some information with us, including the account ID, email, name, and avatar URL. Additionally, Discloud will also collect your IP address. You are responsible for the security of your account and the use of your account. If you become aware of any unauthorized use of your password or account, you agree to notify Discloud immediately.
 
 ### `2.1.1` Data Usage
 `2.1.1.1` **Discloud uses the collected data for various purposes:**
@@ -62,7 +62,7 @@ If you have any questions about this document, please contact us at [support@dis
 
 `4.2.2` To request a partial refund, please contact us using our contact means such as Ticket, Email, or via Dashboard (via Tawk).
 
-`4.3` To **process credit card transactions**, we use third-party services such as Stripe, PayPal and Mercado Pago.
+`4.3` To **process credit card transactions**, we use third-party services.
 
 ## `5.` Limited Warranties and Liability, Content on Discloud Services and Removal
 
@@ -80,9 +80,7 @@ If you have any questions about this document, please contact us at [support@dis
 
 `5.7` Furthermore, you will **not hold Discloud liable** nor seek compensation if confidential materials are unintentionally disclosed as a result of a security failure or vulnerability in the execution of Services.
 
-`5.8` We have no obligation to store app content that exceeds your storage quotas.
-
-`5.9` Discloud assumes it may not have backup of certain data stored on its structure.
+`5.8` Discloud assumes it may not have backup of certain data stored on its structure.
 
 ## `6.` Property Rights
 
@@ -112,7 +110,7 @@ If you have any questions about this document, please contact us at [support@dis
 
 ## `9.` Maintenance
 
-`9.1` Maintenance of Discloud services will be carried out whenever necessary and may cause instability and partial or total unavailability of services. This period will be disregarded in any SLA calculation. All maintenance on Discloud services will be previously communicated through our Official Discord in the Status channel or on our [status page](https://status.discloud.app/).
+`9.1` Maintenance of Discloud services will be carried out whenever necessary and may cause instability and partial or total unavailability of services. This period will be disregarded in any SLA calculation. All maintenance on Discloud services will be previously communicated through our [status page](https://status.discloud.app/).
 
 ## `10.` Recommendations
 
