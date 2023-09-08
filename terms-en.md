@@ -21,7 +21,7 @@ If you have any questions about this document, please contact us at [support@dis
 
 ## `2.` Your Account and Use of Discloud Services
 
-`2.1` You must provide accurate and complete information whenever you register to use Discloud services. When registering with Discloud through “Third-Party Accounts,” these platforms will share some information with us, including the account ID, email, name, and avatar URL. Additionally, Discloud will also collect your IP address. You are responsible for the security of your account and the use of your account. If you become aware of any unauthorized use of your password or account, you agree to notify Discloud immediately.
+`2.1` You must provide accurate and complete information whenever you register to use Discloud services. When registering with Discloud through “Third-Party Accounts”, these platforms will share some information with us, including the account ID, email, name, and avatar URL. Additionally, Discloud will also collect your IP address. You are responsible for the security of your account and the use of your account. If you become aware of any unauthorized use of your password or account, you agree to notify Discloud immediately.
 
 ### `2.1.1` Data Usage
 `2.1.1.1` **Discloud uses the collected data for various purposes:**
