@@ -62,7 +62,7 @@ If you have any questions about this document, please contact us at [support@dis
 
 `4.2.2` To request a partial refund, please contact us using our contact means such as Ticket, Email, or via Dashboard (via Tawk).
 
-`4.3` To **process credit card transactions**, we use third-party services.
+`4.3` To **process credit card transactions**, we use third-party services such as Stripe.
 
 ## `5.` Limited Warranties and Liability, Content on Discloud Services and Removal
 

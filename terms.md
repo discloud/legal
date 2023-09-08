@@ -62,7 +62,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 `4.2.2` Para solicitar um reembolso parcial, entre em contato conosco usando os nossos meios de contato como Ticket, E-mail, ou pela Dashboard (via Tawk).
 
-`4.3` Para **processar transações** com cartão de crédito, utilizamos os serviços de terceiros.
+`4.3` Para **processar transações** com cartão de crédito, utilizamos serviços de terceiros, como o Stripe.
 
 ## `5.` Garantias e responsabilidade limitadas, Conteúdo nos Serviços da Discloud e Remoção
 
