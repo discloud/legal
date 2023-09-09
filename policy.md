@@ -11,7 +11,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## Conteúdo permitido
 
-`1` - A plataforma é destinada para a hospedagem de Bots Discord que estejam dentro dos [Termos de serviço](https://discordapp.com/terms) \(TOS\) da Discord Inc.
+`1` - A plataforma é destinada para a hospedagem de Bots que estejam dentro dos Termos de serviços de suas respectivas plataformas.
 
 `2` - Também é permitido hospedar Bots de outras plataformas, como Telegram, Whatsapp, Twitch e outras, desde que estejam em conformidade com os Termos de Serviço da respectiva plataforma.
 
@@ -55,7 +55,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 `5` - Transmitir conteúdo que possa ser prejudicial para menores;
 
-`6` - Passar por outra pessoa \(através da utilização de uma conta Discord ou de outra forma\) ou deturpar a si mesmo ou a origem de qualquer e-mail;
+`6` - Passar por outra pessoa \(através da utilização de uma conta ou de outra forma\) ou deturpar a si mesmo ou a origem de qualquer e-mail;
 
 `7` - Transmitir ilegalmente propriedade intelectual ou outras informações proprietárias sem a permissão do proprietário ou do licenciante;
 
@@ -79,10 +79,10 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 `17` - Exibir qualquer conteúdo no Serviço que contenha qualquer conteúdo relacionado com ódio ou violência ou contém quaisquer outros materiais, produtos ou serviços que violem ou encorajem conduta que viole as leis penais, quaisquer outras leis aplicáveis, ou quaisquer direitos de terceiros;
 
-`18` - É completamente proibido burlar o benéfico free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
+`18` - É completamente proibido burlar o benéfico free criando 2 contas para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
 
-`19` - É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
+`19` - É proibido automatizar contas de usuário normais \(geralmente chamadas de "self-bots"\).
 
-`20` - É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço do Discord.
+`20` - É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço.
 
 `21` - É estritamente proibido a utilização da DisCloud para hospedar scripts de aprendizado de maquina \(machine learning\) ou qualquer aplicação do gênero.

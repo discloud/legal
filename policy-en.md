@@ -11,7 +11,7 @@ If you have any questions about this document, please contact us by email: [supp
 
 ## Permitted Content
 
-`1` - The platform is intended for hosting Discord Bots that are within Discord Inc.'s Terms of Service (TOS).
+`1` - The platform is intended for hosting Bots that are within the Terms of Service of their respective platforms.
 
 `2` - It is also allowed to host Bots from other platforms, such as Telegram, Whatsapp, Twitch and others, as long as they comply with the respective platform's Terms of Service.
 
@@ -55,7 +55,7 @@ If you have any questions about this document, please contact us by email: [supp
 
 `5` - Transmit content that may be harmful to minors;
 
-`6` - Impersonate another person (through the use of a Discord account or otherwise) or misrepresent yourself or the origin of any email;
+`6` - Impersonate another person (through the use of account or otherwise) or misrepresent yourself or the origin of any email;
 
 `7` - Illegally transmit intellectual property or other proprietary information without the permission of the owner or licensee;
 
@@ -79,10 +79,10 @@ If you have any questions about this document, please contact us by email: [supp
 
 `17` - Display any content on the Service that contains any hate-related or violent content or contains any other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any third party rights;
 
-`18` - It is completely forbidden to circumvent the free benefit by creating 2 Discord accounts in order to have 2 bots hosted on our platform. If caught all bots will be deleted and your account added to Blacklist.
+`18` - It is completely forbidden to circumvent the free benefit by creating 2 accounts in order to have 2 bots hosted on our platform. If caught all bots will be deleted and your account added to Blacklist.
 
-`19` - It is forbidden to automate normal Discord user accounts (usually called “self-bots”).
+`19` - It is forbidden to automate normal accounts (usually called “self-bots”).
 
-`20` - It is forbidden to host BOTs that share files or malicious links, Mass DM, and any action prohibited by Discord’s terms of service.
+`20` - It is forbidden to host BOTs that share files or malicious links, Mass DM, and any action prohibited by terms of service.
 
 `21` - It is strictly forbidden to use DisCloud to host machine learning scripts or any application of this kind.
