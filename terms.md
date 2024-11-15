@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-* Última atualização: 08 de setembro de 2023
+* Última atualização: 15 de novembro de 2024
 * Efetividade: 1 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma Discloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
