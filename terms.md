@@ -64,6 +64,8 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 `4.3` Para **processar transações** com cartão de crédito, utilizamos serviços de terceiros, como o Stripe.
 
+`4.4` Solicitações de reembolso impactam diretamente nossa capacidade de manter o plano gratuito disponível para os usuários que mais precisam. Por isso, ao solicitar um reembolso, você poderá ser bloqueado para futuras vagas no plano gratuito, assegurando que essas oportunidades sejam priorizadas para aqueles que valorizam e necessitam do suporte oferecido por nossa estrutura mantida com apoio dos doadores.
+
 ## `5.` Garantias e responsabilidade limitadas, Conteúdo nos Serviços da Discloud e Remoção
 
 `5.1` Você entende que todas as informações (tais como arquivos de dados, texto escrito, software de computador, música, arquivos de áudio ou outros sons, fotografias, vídeos ou outras imagens) a que possa ter acesso como parte dos, ou através do seu uso dos, Serviços da Discloud são da única responsabilidade da pessoa da qual **esse conteúdo foi originado**. Toda essa informação é referida abaixo como **"Conteúdo"**.
