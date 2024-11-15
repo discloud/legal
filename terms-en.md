@@ -1,6 +1,6 @@
 # Terms of Service
 
-* Last updated: September 08, 2023
+* Last updated: November 11, 2024
 * Effectiveness: June 1, 2019
 
 This Term establishes the rules for using the Discloud Platform. We inform you that by accepting it you are hiring our services and accepting the conditions presented in this contract. If you do not agree with the terms and conditions presented, do not complete your registration or use our services. The use of the platform implies a tacit hiring of our services and by virtue of this hiring agreement with the clauses presented here.
@@ -63,6 +63,8 @@ If you have any questions about this document, please contact us at [support@dis
 `4.2.2` To request a partial refund, please contact us using our contact means such as Ticket, Email, or via Dashboard (via Tawk).
 
 `4.3` To **process credit card transactions**, we use third-party services such as Stripe.
+
+`4.4` Refund requests directly impact our ability to keep the free plan available to those who need it most. Therefore, requesting a refund may block you from future free plan slots, ensuring that these opportunities are prioritized for those who value and need the support offered by our donor-supported structure.
 
 ## `5.` Limited Warranties and Liability, Content on Discloud Services and Removal
 
