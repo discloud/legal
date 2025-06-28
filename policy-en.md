@@ -86,3 +86,5 @@ If you have any questions about this document, please contact us by email: [supp
 `20` - It is forbidden to host BOTs that share files or malicious links, Mass DM, and any action prohibited by terms of service.
 
 `21` - It is strictly forbidden to use DisCloud to host machine learning scripts or any application of this kind.
+
+`22` - It is prohibited to use the DisCloud platform to host, operate or distribute any type of botnet or malicious automated application, including DDoS attacks, mass messaging, unauthorized cryptocurrency mining, remote control of devices, account automation (self-bots) and any other activity that compromises security, stability or violates laws and third party rights. Failure to comply will result in immediate suspension, account deletion and, if necessary, communication to the authorities.
