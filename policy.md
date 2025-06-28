@@ -86,3 +86,5 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 `20` - É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço.
 
 `21` - É estritamente proibido a utilização da DisCloud para hospedar scripts de aprendizado de maquina \(machine learning\) ou qualquer aplicação do gênero.
+
+`22` - É proibido utilizar a plataforma DisCloud para hospedar, operar ou distribuir qualquer tipo de botnet ou aplicação automatizada maliciosa, incluindo ataques DDoS, envio massivo de mensagens, mineração não autorizada de criptomoedas, controle remoto de dispositivos, automação de contas (self-bots) e qualquer outra atividade que comprometa a segurança, estabilidade ou viole leis e direitos de terceiros. O descumprimento acarretará suspensão imediata, exclusão da conta e, se necessário, comunicação às autoridades.
