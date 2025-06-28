@@ -1,6 +1,6 @@
 # Terms of Use
 
-* Last update: June 28, 2025
+* Last update: June 20, 2025
 * Effective: June 1, 2019
 
 This Term sets out the rules for using the DisCloud Platform. We inform you that by accepting it, you are contracting our services and accepting the conditions presented in this contract. If you do not agree with the terms and conditions presented, do not complete your registration or use our services. The use of the platform implies tacit contracting of our services and by virtue of this contracting, agreement with the clauses presented here.
