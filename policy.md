@@ -1,90 +1,85 @@
 # Política de Uso
 
-* Última atualização: 20 de junho de 2025
-* Efetividade: 1 de junho de 2019
+* Última atualização: 15 de setembro de 2026
+* Efetividade original: 1 de junho de 2019
 
-Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
+**Discloud** (Discloud LTDA)
+CNPJ: 68.044.894/0001-55
+Termos legais e políticas: [https://discloud.com/legal](https://discloud.com/legal)
+Contato de suporte: [support@discloudbot.com](mailto:support@discloudbot.com)
 
-Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer momento, e nos termos da DisCloud, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+Esta Política de Uso estabelece as regras de uso aceitável da plataforma Discloud (a "Plataforma" ou os "Serviços") e é parte integrante dos Termos de Serviço da Discloud, sendo a estes incorporada por referência. Ao utilizar os Serviços, você concorda com esta Política de Uso e declara estar contratando com **Discloud LTDA**, inscrita no CNPJ nº **68.044.894/0001-55**.
 
-Caso persista alguma dúvida sobre este documento entre em contato através do e-mail: [support@discloudbot.com](mailto:support@discloudbot.com).
+## 1. Conteúdo e aplicações permitidos
 
-## Conteúdo permitido
+`1.1` É permitida a hospedagem de aplicações (bots, sites, APIs, painéis e afins) desenvolvidas ou operadas pelo usuário, desde que estejam em conformidade com os Termos de Serviço da plataforma de destino (Discord, Telegram, WhatsApp, Twitch ou similares, conforme o caso) e com a legislação aplicável.
 
-`1` - A plataforma é destinada para a hospedagem de Bots que estejam dentro dos Termos de serviços de suas respectivas plataformas.
+`1.2` É permitida a hospedagem de aplicações web em geral, incluindo sites estáticos, APIs e aplicações com painel administrativo próprio.
 
-`2` - Também é permitido hospedar Bots de outras plataformas, como Telegram, Whatsapp, Twitch e outras, desde que estejam em conformidade com os Termos de Serviço da respectiva plataforma.
+## 2. Conteúdo proibido
 
-`3` - A Hospedagem de aplicações Web passou a ser possível com a DisCloud V2, desde um simples Site Estático, API, bots com Dashboard, Dashboard e outros.
+É proibido publicar, hospedar, distribuir ou processar, através dos Serviços, conteúdo que envolva:
 
-## Conteúdo proibido
+`2.1` exploração sexual infantil, pornografia envolvendo menores ou qualquer material relacionado a abuso sexual infantil, em qualquer hipótese;
 
-`1` - Conteúdo que viole os direitos de terceiros \(por exemplo, direitos de autor\) de acordo com a legislação aplicável;
+`2.2` violência real, incitação à violência ou ao terrorismo;
 
-`2` - Conteúdo excessivamente profano;
+`2.3` discurso de ódio, discriminação ou intolerância baseada em raça, etnia, religião, gênero, orientação sexual, deficiência ou origem;
 
-`3` - Relacionado à ódio ou conteúdo violento;
+`2.4` fraude, phishing ou engano de terceiros;
 
-`4` - Conteúdo defendendo a intolerância racial ou étnica;
+`2.5` violação de direitos autorais ou de outros direitos de propriedade intelectual de terceiros;
 
-`5` - Conteúdo defendendo atividade hacker ou cracker;
+`2.6` malware de qualquer natureza, incluindo vírus, ransomware, spyware, keyloggers, coletores de credenciais, backdoors, ferramentas de comando e controle (C2), ou qualquer software destinado a causar dano;
 
-`6` - Outra atividade ilegal, incluindo, sem limitação de exposição ilegal de substâncias controladas ou software ilegal;
+`2.7` material ilegal segundo a legislação brasileira ou a legislação aplicável ao caso, incluindo comércio de substâncias controladas ou de software ilegal;
 
-`7` - Phishing;
+`2.8` conteúdo que viole direitos de terceiros de qualquer natureza;
 
-`8` - Conteúdo malicioso;
+`2.9` conteúdo pornográfico, sexualmente explícito ou destinado à exploração sexual, independentemente de envolver apenas adultos;
 
-`9` - Arquivos de backup que não sejam do seu próprio bot ou aplicação;
+`2.10` humor de mau gosto ou representações ficcionais de violência (por exemplo, em jogos, histórias ou conteúdo artístico) não se enquadram automaticamente nas vedações desta Seção, mas podem ser restringidos por regra específica de produto, exigência legal ou política comercial publicada pela Discloud.
 
-`10` - Outros materiais, produtos ou serviços que violem ou encorajam conduta que viole as leis penais, quaisquer outras leis aplicáveis, nem quaisquer direitos de terceiros.
+## 3. Condutas proibidas
 
-`11` - Bots com conteúdo criminoso.
+Ao usar os Serviços, você concorda em não:
 
-`12` - Qualquer aplicação que vai contra o **conteúdo permitido** desse documento.
+`3.1` distribuir intencionalmente vírus, worms, cavalos de Troia, arquivos corrompidos ou qualquer item de natureza destrutiva ou enganosa;
 
-## Ações proibidas
+`3.2` operar ou distribuir botnets, ataques de negação de serviço (DDoS), envio massivo e não autorizado de mensagens (mass DM ou spam), ou mineração não autorizada de criptomoedas e workloads equivalentes (cryptojacking);
 
-`1` - Enviar \(upload\), distribuir, disseminar ou oferecer para fazer o mesmo com relação a qualquer conteúdo de caráter 
+`3.3` realizar varreduras de rede, exploração de vulnerabilidades ou tentativas de acesso não autorizado a sistemas de terceiros ou da própria Discloud;
 
-`2` - difamatório, ofensivo, abusivo, fraudulento, infrator, obsceno ou de outra forma censurável ilegal;
+`3.4` automatizar contas de usuário comuns em plataformas de terceiros de forma que viole os termos dessas plataformas (chamadas comumente de "self-bots"). Essa restrição existe porque endereços de IP e recursos da Plataforma são compartilhados entre usuários, e o abuso de um único usuário pode gerar bloqueios, degradação de reputação de IP ou impacto negativo para outros clientes da Discloud;
 
-`3` - Distribuir intencionalmente vírus, worms, defeitos, cavalos de Tróia, arquivos corrompidos, trotes, ou quaisquer outros itens de natureza destrutiva ou enganosa;
+`3.5` fazer engenharia reversa, descompilar ou tentar extrair o código-fonte dos Serviços, exceto quando expressamente permitido por lei ou por autorização escrita da Discloud;
 
-`4` - Encaminhar esquemas de pirâmide e afins;
+`3.6` contornar mecanismos de segurança, autenticação ou limites técnicos da Plataforma;
 
-`5` - Transmitir conteúdo que possa ser prejudicial para menores;
+`3.7` acessar a interface administrativa dos Serviços por meio diverso do fornecido oficialmente pela Discloud;
 
-`6` - Passar por outra pessoa \(através da utilização de uma conta ou de outra forma\) ou deturpar a si mesmo ou a origem de qualquer e-mail;
+`3.8` realizar testes de carga significativos sem consentimento prévio e por escrito da Discloud;
 
-`7` - Transmitir ilegalmente propriedade intelectual ou outras informações proprietárias sem a permissão do proprietário ou do licenciante;
+`3.9` se passar por outra pessoa ou deturpar a origem de comunicações realizadas através dos Serviços;
 
-`8` - Usar o Serviço para violar os direitos legais \(tais como direitos de privacidade e publicidade\) de outros;
+`3.10` criar múltiplas contas com o objetivo de contornar limites de planos gratuitos ou promocionais. Contas identificadas nessa prática podem ter as aplicações removidas e ser incluídas em lista de restrição;
 
-`9` - Promover ou encorajar atividade ilegal;
+`3.11` interferir no uso normal dos Serviços por outros usuários ou na estabilidade da infraestrutura da Discloud.
 
-`10` - Interferir na utilização do Serviço de outros usuários;
+`3.12` hospedar, executar, treinar ou realizar inferência de scripts, modelos ou aplicações de aprendizado de máquina (machine learning) ou de inteligência artificial, independentemente da linguagem, framework, biblioteca ou finalidade utilizada.
 
-`11` - Realizar testes de carga significativa sem antes obter o consentimento escrito da DisCloud, caso contrário, estes podem ser tratados como ataques de negação de serviço;
+`3.13` O descumprimento das regras de segurança acima pode acarretar suspensão imediata, exclusão da conta e, quando aplicável, comunicação às autoridades competentes.
 
-`12` - Modificar, adaptar, traduzir ou fazer engenharia reversa de qualquer parte do Serviço;
+## 4. Aplicação desta Política
 
-`13` - Remover quaisquer direitos autorais, marcas registradas ou outros direitos de propriedade contidos no ou sobre o Serviço;
+`4.1` A violação de qualquer disposição desta Política de Uso é considerada violação dos Termos de Serviço da Discloud, sujeitando o usuário às medidas previstas naquele documento, incluindo suspensão, bloqueio ou encerramento da conta ou das aplicações envolvidas.
 
-`14` - Reformatar ou enquadrar qualquer parte das páginas da web que fazem parte da exposição de administração do serviço;
+`4.2` A Discloud pode remover conteúdo, suspender aplicações ou encerrar contas que violem esta Política, mediante aviso prévio sempre que razoavelmente possível, exceto em casos de risco à segurança, à infraestrutura ou a terceiros, quando a medida pode ser imediata.
 
-`15` - Usar o Serviço em conexão com compartilhamento ilegal de arquivos peer-to-peer;
+## 5. Denúncias e Contato
 
-`16` - Utilizar o Serviço para Bitcoin e outras moedas digitais \(cryptocurrencies\);
+Denúncias de violação desta Política de Uso, bem como dúvidas sobre seu conteúdo, podem ser enviadas para:
 
-`17` - Exibir qualquer conteúdo no Serviço que contenha qualquer conteúdo relacionado com ódio ou violência ou contém quaisquer outros materiais, produtos ou serviços que violem ou encorajem conduta que viole as leis penais, quaisquer outras leis aplicáveis, ou quaisquer direitos de terceiros;
+**[support@discloudbot.com](mailto:support@discloudbot.com)**
 
-`18` - É completamente proibido burlar o benéfico free criando 2 contas para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
-
-`19` - É proibido automatizar contas de usuário normais \(geralmente chamadas de "self-bots"\).
-
-`20` - É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço.
-
-`21` - É estritamente proibido a utilização da DisCloud para hospedar scripts de aprendizado de maquina \(machine learning\) ou qualquer aplicação do gênero.
-
-`22` - É proibido utilizar a plataforma DisCloud para hospedar, operar ou distribuir qualquer tipo de botnet ou aplicação automatizada maliciosa, incluindo ataques DDoS, envio massivo de mensagens, mineração não autorizada de criptomoedas, controle remoto de dispositivos, automação de contas (self-bots) e qualquer outra atividade que comprometa a segurança, estabilidade ou viole leis e direitos de terceiros. O descumprimento acarretará suspensão imediata, exclusão da conta e, se necessário, comunicação às autoridades.
+**Termos e políticas vigentes:** [https://discloud.com/legal](https://discloud.com/legal)

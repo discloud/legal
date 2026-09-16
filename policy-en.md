@@ -1,90 +1,85 @@
-# Terms of Use
+# Acceptable Use Policy
 
-* Last update: June 20, 2025
-* Effective: June 1, 2019
+* Last updated: September 15, 2026
+* Original effective date: June 1, 2019
 
-This Term sets out the rules for using the DisCloud Platform. We inform you that by accepting it, you are contracting our services and accepting the conditions presented in this contract. If you do not agree with the terms and conditions presented, do not complete your registration or use our services. The use of the platform implies tacit contracting of our services and by virtue of this contracting, agreement with the clauses presented here.
+**Discloud** (Discloud LTDA)
+Corporate Taxpayer ID (CNPJ): 68.044.894/0001-55
+Legal terms and policies: [https://discloud.com/legal](https://discloud.com/legal)
+Support contact: [support@discloudbot.com](mailto:support@discloudbot.com)
 
-Please note that we may change our Terms of Use at any time and under DisCloud's terms, it is your responsibility to keep up to date and adhere to the policies posted here.
+This Acceptable Use Policy sets out the rules for acceptable use of the Discloud platform (the "Platform" or the "Services") and is an integral part of the Discloud Terms of Service, being incorporated into them by reference. By using the Services, you agree to this Acceptable Use Policy and acknowledge that you are entering into a contract with **Discloud LTDA**, enrolled under CNPJ No. **68.044.894/0001-55**.
 
-If you have any questions about this document, please contact us by email: [support@discloudbot.com](mailto:support@discloudbot.com).
+## 1. Permitted content and applications
 
-## Permitted Content
+`1.1` Hosting of applications (bots, websites, APIs, dashboards, and similar) developed or operated by the user is permitted, provided they comply with the Terms of Service of the destination platform (Discord, Telegram, WhatsApp, Twitch, or similar, as applicable) and with applicable law.
 
-`1` - The platform is intended for hosting Bots that are within the Terms of Service of their respective platforms.
+`1.2` Hosting of web applications in general is permitted, including static websites, APIs, and applications with their own administrative dashboard.
 
-`2` - It is also allowed to host Bots from other platforms, such as Telegram, Whatsapp, Twitch and others, as long as they comply with the respective platform's Terms of Service.
+## 2. Prohibited content
 
-`3` - Hosting Web applications became possible with DisCloud V2, from a simple Static Site, API, bots with Dashboard, Dashboard and others.
+It is prohibited to publish, host, distribute, or process, through the Services, content involving:
 
-## Prohibited Content
+`2.1` child sexual exploitation, pornography involving minors, or any material related to child sexual abuse, under any circumstances;
 
-`1` - Content that violates the rights of third parties (for example, copyright) in accordance with applicable law;
+`2.2` real violence, or incitement to violence or terrorism;
 
-`2` - Excessively profane content;
+`2.3` hate speech, discrimination, or intolerance based on race, ethnicity, religion, gender, sexual orientation, disability, or origin;
 
-`3` - Related to hate or violent content;
+`2.4` fraud, phishing, or deception of third parties;
 
-`4` - Content advocating racial or ethnic intolerance;
+`2.5` infringement of copyright or other third-party intellectual property rights;
 
-`5` - Content advocating hacker or cracker activity;
+`2.6` malware of any kind, including viruses, ransomware, spyware, keyloggers, credential harvesters, backdoors, command-and-control (C2) tools, or any software intended to cause harm;
 
-`6` - Other illegal activity, including, without limitation, illegal exposure of controlled substances or illegal software;
+`2.7` material that is illegal under Brazilian law or other applicable law, including trafficking in controlled substances or illegal software;
 
-`7` - Phishing;
+`2.8` content that violates third-party rights of any kind;
 
-`8` - Malicious content;
+`2.9` pornographic, sexually explicit, or sexually exploitative content, regardless of whether it involves only adults;
 
-`9` - Backup files that are not from your own bot or application;
+`2.10` tasteless humor or fictional depictions of violence (for example, in games, stories, or artistic content) do not automatically fall within the prohibitions of this Section, but may be restricted by specific product rules, legal requirements, or commercial policy published by Discloud.
 
-`10` - Other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any third party rights.
+## 3. Prohibited conduct
 
-`11` - Bots with criminal content.
+When using the Services, you agree not to:
 
-`12` - Any application that goes against the **permitted content** of this document.
+`3.1` intentionally distribute viruses, worms, Trojan horses, corrupted files, or any item of a destructive or deceptive nature;
 
-## Prohibited Actions
+`3.2` operate or distribute botnets, denial-of-service (DDoS) attacks, mass or unauthorized messaging (mass DM or spam), or unauthorized cryptocurrency mining and equivalent workloads (cryptojacking);
 
-`1` - Upload, distribute, disseminate or offer to do the same with respect to any content of a defamatory, offensive, abusive, fraudulent, infringing, obscene or otherwise illegal nature;
+`3.3` conduct network scanning, vulnerability exploitation, or attempts at unauthorized access to third-party systems or to Discloud's own systems;
 
-`2` - Defamatory, offensive, abusive, fraudulent, infringing, obscene or otherwise illegal and objectionable content;
+`3.4` automate ordinary user accounts on third-party platforms in a manner that violates those platforms' terms (commonly referred to as "self-bots"). This restriction exists because IP addresses and Platform resources are shared among users, and abuse by a single user can lead to blocks, degradation of IP reputation, or negative impact on other Discloud customers;
 
-`3` - Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, hoaxes or any other items of a destructive or deceptive nature;
+`3.5` reverse engineer, decompile, or attempt to extract the source code of the Services, except where expressly permitted by law or authorized in writing by Discloud;
 
-`4` - Forward pyramid schemes and the like;
+`3.6` circumvent security mechanisms, authentication, or technical limits of the Platform;
 
-`5` - Transmit content that may be harmful to minors;
+`3.7` access the administrative interface of the Services by any means other than that officially provided by Discloud;
 
-`6` - Impersonate another person (through the use of account or otherwise) or misrepresent yourself or the origin of any email;
+`3.8` conduct significant load testing without Discloud's prior written consent;
 
-`7` - Illegally transmit intellectual property or other proprietary information without the permission of the owner or licensee;
+`3.9` impersonate another person or misrepresent the origin of communications made through the Services;
 
-`8` - Use the Service to violate the legal rights (such as privacy and publicity rights) of others;
+`3.10` create multiple accounts for the purpose of circumventing free or promotional plan limits. Accounts identified engaging in this practice may have their applications removed and be placed on a restriction list;
 
-`9` - Promote or encourage illegal activity.
+`3.11` interfere with normal use of the Services by other users or with the stability of Discloud's infrastructure.
 
-`10` - Interfere with the use of the Service by other users;
+`3.12` host, run, train, or perform inference with machine learning or artificial intelligence scripts, models, or applications, regardless of the language, framework, library, or purpose used.
 
-`11` - Perform significant load testing without first obtaining written consent from DisCloud, otherwise these may be treated as denial of service attacks;
+`3.13` Breach of the security rules above may result in immediate suspension, account deletion, and, where applicable, referral to the competent authorities.
 
-`12` - Modify, adapt, translate or reverse engineer any part of the Service;
+## 4. Enforcement of this Policy
 
-`13` - Remove any copyright, trademark or other proprietary rights contained in or on the Service;
+`4.1` Violation of any provision of this Acceptable Use Policy is deemed a violation of the Discloud Terms of Service, subjecting the user to the measures set out therein, including suspension, blocking, or termination of the account or of the applications involved.
 
-`14` - Reformat or frame any part of the web pages that are part of the service administration display;
+`4.2` Discloud may remove content, suspend applications, or terminate accounts that violate this Policy, with prior notice whenever reasonably possible, except in cases of risk to security, infrastructure, or third parties, in which case the measure may be immediate.
 
-`15` - Use the Service in connection with illegal peer-to-peer file sharing;
+## 5. Reports and Contact
 
-`16` - Use the Service for Bitcoin and other digital currencies (cryptocurrencies);
+Reports of violations of this Acceptable Use Policy, as well as questions about its content, may be sent to:
 
-`17` - Display any content on the Service that contains any hate-related or violent content or contains any other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any third party rights;
+**[support@discloudbot.com](mailto:support@discloudbot.com)**
 
-`18` - It is completely forbidden to circumvent the free benefit by creating 2 accounts in order to have 2 bots hosted on our platform. If caught all bots will be deleted and your account added to Blacklist.
-
-`19` - It is forbidden to automate normal accounts (usually called “self-bots”).
-
-`20` - It is forbidden to host BOTs that share files or malicious links, Mass DM, and any action prohibited by terms of service.
-
-`21` - It is strictly forbidden to use DisCloud to host machine learning scripts or any application of this kind.
-
-`22` - It is prohibited to use the DisCloud platform to host, operate or distribute any type of botnet or malicious automated application, including DDoS attacks, mass messaging, unauthorized cryptocurrency mining, remote control of devices, account automation (self-bots) and any other activity that compromises security, stability or violates laws and third party rights. Failure to comply will result in immediate suspension, account deletion and, if necessary, communication to the authorities.
+**Current terms and policies:** [https://discloud.com/legal](https://discloud.com/legal)

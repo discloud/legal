@@ -1,257 +1,392 @@
 # Termos de Serviço
 
-* Última atualização: 15 de novembro de 2024
-* Efetividade: 1 de junho de 2019
+* Última atualização: 15 de setembro de 2026
+* Efetividade original: 1 de junho de 2019
 
-Este Termo estabelece as regras para utilização da Plataforma Discloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
+## 0. Identificação
 
-Por favor, note que nós podemos mudar nosso Termos de Serviço, a qualquer momento, e enquanto utiliza a Discloud, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+Estes Termos regem a utilização da plataforma Discloud e de todos os produtos e serviços atualmente oferecidos ou que venham a ser oferecidos pela Discloud (a "Plataforma" ou os "Serviços"), independentemente do nome comercial dado a cada produto no momento do lançamento.
 
-Caso persista alguma dúvida sobre este documento entre em contato através do email [support@discloudbot.com](mailto:support@discloudbot.com).
+**Discloud** (Discloud LTDA)
+CNPJ: 68.044.894/0001-55
+Site: [https://discloud.com](https://discloud.com)
+Termos legais e políticas: [https://discloud.com/legal](https://discloud.com/legal)
+Contato de suporte: [support@discloudbot.com](mailto:support@discloudbot.com)
 
-## `1.` Seu acordo com a Discloud
+Ao usar os Serviços, você contrata com a pessoa jurídica acima identificada, **Discloud LTDA**, inscrita no CNPJ nº **68.044.894/0001-55**.
 
-`1.1` Para usar os Serviços da Discloud, primeiro você deve concordar com os Termos. Você pode concordar com os Termos usando efetivamente os Serviços da Discloud. Você entende e concorda que a Discloud considerará o uso dos Serviços da Discloud como uma aceitação dos Termos a partir desse ponto em diante.
+## 1. Aceitação dos Termos
 
-`1.2` Você não poderá usar os Serviços da Discloud se você for uma pessoa impedida de receber os Serviços da Discloud sob as leis de qualquer país, incluindo o país onde o usuário é residente ou a partir do qual usa os Serviços da Discloud.
+`1.1` Para usar os Serviços, você precisa concordar com estes Termos. O uso efetivo da Plataforma, o cadastro de conta ou a criação de qualquer aplicação já configuram sua aceitação.
 
-`1.3` Para usar os Serviços da Discloud você precisa seguir, aceitar e concordar com nossas **Políticas de uso**, caso contrario está impedido de usar o serviço.
+`1.2` Se você não concorda com estes Termos, não finalize seu cadastro nem utilize os Serviços.
 
-`1.4` Esteja ciente que para conseguir utilizar nossos serviços você precisa de se registrar no nosso [site](https://discloudbot.com/login).
+`1.3` Você não pode usar os Serviços se for legalmente impedido de recebê-los, seja pelas leis do seu país de residência, seja pelas leis do país a partir do qual acessa a Plataforma.
 
-## `2.` Sua Conta e Utilização dos Serviços da Discloud
+`1.4` Estes Termos incorporam, por referência, a Política de Privacidade da Discloud, apresentada na Parte II deste documento e também disponível em [https://discloud.com/legal](https://discloud.com/legal).
 
-`2.1` Você deve fornecer informações precisas e completas sempre que se registrar para usar os serviços da Discloud. Ao se registrar na Discloud por meio de "Contas de Terceiros", essas plataformas compartilharão algumas informações conosco, incluindo o ID da conta, e-mail, nome e url do seu avatar. Além disso, a Discloud também coletará seu endereço IP. Você é responsável pela segurança de sua conta e pelo uso da sua conta. Se você tomar conhecimento de qualquer uso não autorizado de sua senha ou da sua conta, você concorda em notificar imediatamente a Discloud.
+`1.5` A Discloud pode alterar estes Termos periodicamente, conforme a Seção 21. É responsabilidade do usuário acompanhar a versão vigente.
 
-### `2.1.1` Uso de Dados
-`2.1.1.1` **A Discloud usa os dados coletados para vários fins:**
-* Para fornecer e manter nosso Serviço;
-* Para notificá-lo sobre alterações no nosso serviço;
-* Para fornecer a você avisos sobre sua conta e/ou assinatura, incluindo avisos de expiração e renovação, e fornecimento de backups via e-mail.
-* Para fornecer suporte ao cliente;
-* Para monitorar o uso do nosso Serviço;
-* Para cumprir qualquer outra finalidade para a qual você o fornece;
-* Para qualquer outra finalidade com o seu consentimento.
+## 2. Cadastro e Conta
 
-### `2.2.1` Retenção, alteração e exclusão de Dados
-`2.2.1.1` **Seus dados pessoais** serão retidos pelo tempo necessário para cumprir os fins estabelecidos nesta seção, incluindo cumprir obrigações legais, resolver disputas e fazer cumprir acordos legais.
+`2.1` Para usar os Serviços é necessário se registrar através do site oficial da Discloud, disponível em [https://discloud.com/login](https://discloud.com/login).
 
-`2.2.1.2` Nosso objetivo é tomar medidas razoáveis ​​para permitir que você **altere**, **exclua** ou limite o uso de seus dados pessoais. Se você deseja ser informado sobre quais dados pessoais mantemos sobre você e se deseja removê-los de nossos sistemas, entre em contato conosco usando os nossos meios de contato como Ticket, E-mail, ou pela Dashboard (via Tawk).
+`2.2` Você deve fornecer informações precisas e mantê-las atualizadas. Ao se cadastrar por meio de contas de terceiros (por exemplo, Discord), essas plataformas poderão compartilhar com a Discloud dados como identificador de conta, e-mail, nome de exibição e avatar. A Discloud também coleta o endereço IP utilizado no acesso.
 
-`2.3` **A utilização dos Serviços** da Discloud deve cumprir todas as leis, regulamentos e portarias aplicáveis, incluindo quaisquer leis relativas à exportação de dados ou software.
+`2.3` Você é responsável pela segurança de sua conta e pelas atividades realizadas nela. Caso identifique uso não autorizado, deve notificar a Discloud imediatamente pelos canais de suporte.
 
-`2.4` Você concorda em (a) **não acessar** (ou tentar acessar) **a interface administrativa** dos Serviços da Discloud (BOT ou WEB), por qualquer meio que não seja através da interface que é fornecido pela Discloud, a menos que tenha sido **especificamente autorizado a fazê-lo** em um acordo separado com a Discloud, ou (b) se envolver em qualquer atividade que interfira ou interrompa o funcionamento dos Serviços da Discloud (ou os servidores e redes conectados ao Serviço).
+`2.4` Menores de idade só podem usar os Serviços com o consentimento e supervisão dos responsáveis legais, quando a legislação aplicável assim exigir.
 
-`2.5` A sua conta tem limites de uso, como citado em seu painel, de acordo com o seu plano. **Não permitimos que você exceda os limites de utilização**. Discloud reserva-se o direito de impor limites de seu exclusivo critério, que podem resultar na interrupção dos serviços ou até mesmo no bloqueio da sua conta.
+## 3. Descrição dos Serviços
 
-## `3.` Políticas de Serviços e Privacidade
+`3.1` A Discloud oferece produtos de hospedagem e infraestrutura para aplicações, incluindo, sem limitação, bots, sites, APIs, painéis (dashboards) e outras aplicações compatíveis com a Plataforma.
 
-`3.1` Você concorda em cumprir com a **Política de Uso**, que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+`3.2` A Discloud pode lançar, modificar, renomear, combinar ou descontinuar produtos específicos a qualquer momento. Estes Termos se aplicam a todos os produtos vigentes, ainda que não estejam nominalmente descritos aqui, de forma que a Discloud não precise atualizar este documento a cada novo lançamento.
 
-`3.2` Os Serviços da Discloud estarão sujeitos à **política de privacidade** e você concorda com a utilização de seus dados de acordo com as Políticas de Privacidade da Discloud, que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+`3.3` Cabe ao usuário verificar se a aplicação que pretende hospedar é compatível com as regras técnicas e de uso aceitável de cada produto, publicadas na Plataforma ou no Dashboard.
 
-`3.3` Você concorda que irá proteger a privacidade e os direitos legais dos usuários finais de sua aplicação (“Usuários finais”). Você deve fornecer aviso de privacidade legalmente adequado e proteção para usuários finais. Se os usuários finais lhe fornecerem os nomes de usuário, senhas ou outras informações de login ou informações pessoais, você deve tornar os usuários cientes de que a informação estará disponível para sua aplicação e consequentemente para Discloud.
+## 4. Uso Aceitável
 
-## `4.` Termos de Pagamento e Taxas de utilização de Serviços da Discloud
+`4.1` As regras de uso aceitável da Plataforma — incluindo conteúdo e aplicações permitidos, conteúdo proibido e condutas proibidas — são estabelecidas em documento próprio, a **Política de Uso da Discloud**, disponível em [https://discloud.com/legal](https://discloud.com/legal), que é incorporada a estes Termos por referência e cujo descumprimento é tratado como violação destes Termos para todos os efeitos, inclusive quanto à Seção 12 (Suspensão, Bloqueio e Encerramento).
 
-`4.1` Discloud **pode remover seus benefícios extras** caso não renove o seu plano a cada 30 dias.
+## 5. Recursos, Limites e Consumo de Banda
 
-`4.2` As **assinaturas dos serviços** são pagas mensalmente, exceto para pagamentos via Ticket, que são manuais. Após o período inicial, a assinatura é **renovada automaticamente** pelo mesmo período até ser cancelada por você.
+`5.1` Cada plano possui limites de uso, exibidos no Dashboard, incluindo, conforme o caso, memória, armazenamento e capacidade de processamento.
 
-`4.2.1` Você pode **cancelar a sua assinatura** dentro de 30 dias após a compra inicial e receber um reembolso parcial, caso **não tenha utilizado o serviço**. A não utilização do serviço significa que você não hospedou nenhum app e não usou o serviço. Contamos com um plano gratuito para que o cliente possa usar nossos serviços antes de realizar a sua compra.
+`5.2` O consumo de banda (transferência de dados) é ilimitado nos planos em que essa condição for expressamente informada no Dashboard ou na página do produto. A ausência de limite numérico não autoriza uso abusivo: a Discloud pode identificar, limitar ou suspender temporariamente aplicações cujo padrão de tráfego seja incompatível com o uso normal esperado para o tipo de aplicação hospedada, configure ataque, abuso de infraestrutura compartilhada ou represente risco à estabilidade do serviço para os demais usuários.
 
-`4.2.2` Para solicitar um reembolso parcial, entre em contato conosco usando os nossos meios de contato como Ticket, E-mail, ou pela Dashboard (via Tawk).
+`5.3` A Discloud pode, a seu critério técnico, impor limites adicionais para proteger a infraestrutura, sempre buscando comunicar a medida ao usuário afetado quando isso for operacionalmente viável.
 
-`4.3` Para **processar transações** com cartão de crédito, utilizamos serviços de terceiros, como o Stripe.
+`5.4` O consumo de recursos acima dos limites alocados ao plano pode resultar em instabilidade, interrupção, encerramento ou reinicialização automática da aplicação, conforme o recurso excedido e as limitações técnicas da plataforma. Nesses casos, o funcionamento normal da aplicação poderá exigir a redução do consumo ou a contratação de um plano com recursos superiores.
 
-`4.4` Solicitações de reembolso impactam diretamente nossa capacidade de manter o plano gratuito disponível para os usuários que mais precisam. Por isso, ao solicitar um reembolso, você poderá ser bloqueado para futuras vagas no plano gratuito, assegurando que essas oportunidades sejam priorizadas para aqueles que valorizam e necessitam do suporte oferecido por nossa estrutura mantida com apoio dos doadores.
+`5.5` O uso abusivo, intencionalmente excessivo ou incompatível com a finalidade do serviço poderá resultar em medidas administrativas, incluindo limitação, suspensão temporária ou, nos casos aplicáveis, suspensão definitiva da aplicação ou da conta, conforme a gravidade da situação.
 
-## `5.` Garantias e responsabilidade limitadas, Conteúdo nos Serviços da Discloud e Remoção
+## 6. Planos, Pagamentos e Serviço Gratuito
 
-`5.1` Você entende que todas as informações (tais como arquivos de dados, texto escrito, software de computador, música, arquivos de áudio ou outros sons, fotografias, vídeos ou outras imagens) a que possa ter acesso como parte dos, ou através do seu uso dos, Serviços da Discloud são da única responsabilidade da pessoa da qual **esse conteúdo foi originado**. Toda essa informação é referida abaixo como **"Conteúdo"**.
+`6.1` Assinaturas pagas são cobradas de forma recorrente, conforme a periodicidade escolhida, exceto pagamentos processados manualmente por ticket. Após o período inicial, a assinatura é renovada automaticamente até ser cancelada pelo usuário.
 
-`5.2` Discloud se reserva o direito (mas não tem qualquer obrigação) de **remover qualquer ou todos os Conteúdos** dos Serviços da Discloud. Você concorda em **remover imediatamente** qualquer conteúdo que viole a Política de Uso, inclusive por força de um pedido de remoção. No caso de você optar por não atender à um pedido da Discloud para remover determinado conteúdo, a Discloud reserva-se o direito de removê-lo ou desativar seus serviços.
+`6.2` O checkout informará, antes da confirmação do pagamento, o preço, a periodicidade, a existência de renovação automática e as condições de cancelamento.
 
-`5.3` No caso em que você se tornar ciente de qualquer **violação da Política de Uso** por um usuário final de sua aplicação, você deve encerrar imediatamente tal conta do usuário final em seu aplicativo. A Discloud reserva-se o direito de desativar seu(s) app(s) em resposta a uma violação ou suspeita de violação da Política de Uso.
+`6.3` Pagamentos com cartão de crédito são processados por prestadores terceirizados, como o Stripe. A Discloud não armazena dados completos de cartão.
 
-`5.4` Você concorda **que é o único responsável** (e que a Discloud não tem qualquer responsabilidade perante si ou qualquer parceiro) por conta de apps ou qualquer Conteúdo que crie, transmita ou visualize enquanto utiliza os Serviços da Discloud e pelas consequências de suas ações (incluindo qualquer perda ou dano que a Discloud possa sofrer) ao fazê-lo.
+`6.4` A disponibilidade de um plano ou modalidade gratuita é discricionária. A Discloud pode, a qualquer momento, alterar, restringir, suspender ou encerrar a modalidade gratuita por razões comerciais, técnicas, de segurança ou de combate a fraude e abuso, sem que isso gere direito a indenização ou à manutenção do benefício.
 
-`5.5` Você concorda que Discloud não tem qualquer **responsabilidade ou obrigação** pela exclusão ou falha no armazenamento de qualquer Conteúdo da utilização do Serviço. Você também reconhece que é o único responsável pela segurança e backup de seus apps e qualquer Conteúdo.
+`6.5` Tentativas de burlar limites do plano gratuito, inclusive por meio de múltiplas contas, podem resultar na remoção das aplicações envolvidas e na restrição de acesso a benefícios gratuitos futuros.
 
-`5.6` A Discloud se esforça para fornecer serviços confiáveis e seguros, mas não pode garantir a segurança total dos dados. O Serviço é fornecido ‘como está’ e você concorda em **não responsabilizar a Discloud** ou buscar indenização por quaisquer danos resultantes da perda de uso, dados ou lucros relacionados ao desempenho ou falha do Serviço.
+## 7. Reembolso
 
-`5.7` Além disso, você **não responsabilizará a Discloud** nem buscará indenização se materiais confidenciais forem divulgados de modo não intencional como resultado de uma falha de segurança ou uma vulnerabilidade na execução dos Serviços.
+`7.1` **Análise dos pedidos.** As solicitações de reembolso serão analisadas de acordo com a legislação aplicável ao consumidor, seu país de residência, os termos da contratação e as condições específicas do serviço. Clientes no Brasil, por exemplo, estão sujeitos ao Código de Defesa do Consumidor (CDC).
 
-`5.8` Discloud assume que pode não possuir backup de certos dados armazenados em sua estrutura.
+`7.2` **Como solicitar.** O pedido pode ser feito pelo canal de suporte, por e-mail ou, quando disponível, diretamente pelo Dashboard, informando os dados necessários para localizar a contratação.
 
-## `6.` Direitos de Propriedade
+`7.3` **Após o prazo legal.** Passado o prazo de arrependimento, pedidos de reembolso serão avaliados conforme o plano contratado, o período já utilizado, a política comercial vigente, eventual falha comprovada do serviço, indícios de fraude e a legislação aplicável. Nada nesta cláusula elimina direitos obrigatórios do consumidor previstos em lei.
 
-`6.1` Você reconhece e concorda que a Discloud (ou os licenciadores da Discloud) detém todos os direitos legais, títulos e interesses relativos aos Serviços da Discloud, incluindo quaisquer direitos de propriedade intelectual que subsistam nos Serviços da Discloud (quer esses direitos estejam registrados ou não, e em qualquer lugar do mundo).
+`7.4` **Abuso.** A Discloud pode restringir promoções, benefícios gratuitos ou novas contratações em casos de fraude, abuso do direito de reembolso, chargeback indevido ou tentativa de burlar regras comerciais, sem prejuízo do exercício de direitos legalmente garantidos.
 
-## `7.` Licença da Discloud e Restrições
+`7.5` O prazo para o crédito efetivo do reembolso pode variar conforme o meio de pagamento e o processador utilizado.
 
-`7.1` Discloud dá-lhe uma licença pessoal, mundial, isenta de royalties, não atribuível e não exclusiva para utilizar o software fornecido. Esta licença tem como único objetivo permitir-lhe usar e gozar os benefícios dos Serviços da Discloud, como previsto nos Termos.
+## 8. Backups e Responsabilidade sobre Dados
 
-`7.2` Você **não pode** (e não pode permitir a mais ninguém): (a) **copiar**, **modificar**, **criar uma obra derivada de engenharia reversa**, **decompor** ou de outro modo tentar **extrair o código-fonte** dos Serviços da Discloud ou qualquer parte dele, a menos que que seja expressamente permitido ou exigido por lei, ou a menos que lhe tenha sido especificamente dito que você pode fazê-lo pela Discloud, por escrito (por exemplo, através de uma fonte aberta licença de software); ou (b) tentar desativar ou contornar qualquer mecanismo de segurança usados ​​pelos Serviços da Discloud ou quaisquer aplicativos em execução nos Serviços da Discloud.
+`8.1` O usuário é o responsável primário pela segurança e pelo backup de suas aplicações e de qualquer conteúdo hospedado.
 
-`7.3` Licenças de **software de código aberto** para componentes dos Serviços da Discloud liberados sob uma licença open source constituem **contratos escritos em separado**. Na medida em que as licenças de software de código aberto substituem expressamente estes Termos, as licenças de código aberto regem o seu contrato com a Discloud para a utilização dos componentes dos Serviços da Discloud liberado sob uma licença de código aberto.
+`8.2` A Discloud pode manter rotinas de backup e snapshots como medida operacional de proteção, mas esses mecanismos não constituem garantia de recuperação nem substituem um serviço formal de backup com SLA definido, salvo quando expressamente contratado como tal.
 
-`7.4` Discloud concede a você uma licença limitada, não exclusiva, isenta de royalties, licença não-transferível, com o direito de sub-licença, para exibir as marcas Discloud e / ou logotipos, tal como previsto aqui ("Marcas") para o único propósito de promoção ou publicidade que você usar os Serviços da Discloud. Você concorda que todo ágio gerado através de seu uso das Marcas Discloud reverterá em benefício da Discloud.
+`8.3` O usuário não deve depender exclusivamente da infraestrutura da Discloud para preservação de dados críticos.
 
-## `8.` Sua Licença
+## 9. Propriedade Intelectual
 
-`8.1` Discloud não reivindica nenhuma propriedade ou controle sobre qualquer Conteúdo ou aplicativo. O usuário retém direitos autorais e quaisquer outros direitos que já detenha no Conteúdo e / ou aplicativo, e você é responsável por proteger esses direitos, conforme o caso.
+`9.1` A Discloud detém todos os direitos, títulos e interesses sobre os Serviços, incluindo a propriedade intelectual neles incorporada, ressalvados componentes de código aberto sujeitos a licenças próprias.
 
-`8.2` Ao adicionar um colaborador para o seu app, você decide conceder a esse usuário uma licença não exclusiva, isenta de royalties, licença não-transferível, com o direito de sub-licença, para usar, exibir, executar, reproduzir, modificar, publicar, distribuir, listar informações sobre, editar, traduzir conteúdo conforme permitido pela funcionalidade dos Serviços da Discloud.
+`9.2` A Discloud concede ao usuário uma licença pessoal, mundial, não exclusiva, não transferível e isenta de royalties para usar os Serviços conforme estes Termos.
 
-`8.3` Você pode escolher ou poderemos convidá-lo para enviar comentários ou ideias sobre os serviços da Discloud, incluindo, sem limitação sobre como melhorar os Serviços da Discloud ou nossos produtos ("Ideias"). Ao submeter qualquer idéia, você concorda que a sua divulgação é gratuita, não solicitada e sem restrição e que nós somos livres para usar a idéia sem qualquer compensação adicional para você, e / ou divulgar Idéia em uma base não confidencial ou de outra forma a ninguém.
+`9.3` É proibido copiar, modificar, criar obras derivadas, fazer engenharia reversa ou tentar extrair o código-fonte dos Serviços, exceto quando permitido por lei ou autorizado por escrito pela Discloud.
 
-`8.4` Você concorda que a Discloud, a seu exclusivo critério, poderá usar seus nomes comerciais, marcas comerciais, marcas de serviço, logótipos, nomes de domínio e outras características distintivas da marca em apresentações, materiais de marketing, listas de clientes, relatórios financeiros e listas de sites (incluindo links para seu site) para fins de publicidade ou divulgar o seu uso dos Serviços da Discloud.
+## 10. Conteúdo do Usuário
 
-## `9.` Manutenções
+`10.1` O usuário mantém a titularidade dos direitos autorais e demais direitos sobre o conteúdo e as aplicações que hospeda, sendo o único responsável por protegê-los.
 
-`9.1` As manutenções dos serviços da Discloud serão realizadas sempre que necessário, podendo ocasionar instabilidade e indisponibilidade parcial ou total dos serviços. Esse período será desconsiderado em qualquer cálculo de SLA. Toda manutenção nos serviços da Discloud, será previamente comunicada através da nossa [página de status](https://status.discloud.app/)
+`10.2` O usuário é o único responsável pelo conteúdo que cria, transmite ou hospeda através dos Serviços, e pelas consequências decorrentes desse conteúdo.
 
-## `10.` Recomendações
+`10.3` A Discloud pode remover ou restringir o acesso a conteúdo que viole estes Termos, mediante notificação válida ou quando tomar conhecimento de violação que exija providência conforme a lei aplicável. Sempre que possível, o usuário será notificado antes ou logo após a medida.
 
-`10.1` Discloud pode, e você nos concede permissão para, fazer recomendações através dos serviços da Discloud para produtos ou serviços que acreditamos possam ser de interesse para você, baseado em seu aplicativo (s), Conteúdo e / ou utilização dos Serviços da Discloud. Nós nunca iremos fazer recomendações diretamente para seus usuários finais.
+`10.4` Ao adicionar colaboradores a uma aplicação, o usuário concede a esses colaboradores licença limitada para operar a aplicação conforme a funcionalidade disponibilizada pela Plataforma.
 
-## `11.` Modificação e Cancelamento dos Serviços da Discloud
+## 11. Direitos Autorais e Notificações
 
-`11.1` Discloud está constantemente inovando para poder oferecer a melhor experiência possível aos seus usuários. Você reconhece e aceita que a forma e natureza dos Serviços da Discloud que a Discloud presta podem mudar de tempos em tempos, sem aviso prévio, sujeito aos termos da **Seção 4**. As alterações à forma e natureza dos Serviços da Discloud será eficaz no que diz respeito a todas as versões dos Serviços da Discloud; exemplos de mudanças para a forma e natureza dos Serviços da Discloud incluem, sem limitação as alterações de taxas e política de pagamento, patches de segurança adicionados a funcionalidade e outras melhorias.
+`11.1` A Discloud respeita direitos autorais de terceiros e mantém procedimento para tratar notificações de suposta violação.
 
-`11.2` Você pode **rescindir estes Termos a qualquer momento** e cancelar a sua conta nos Serviços da Discloud. Você pode rescindir esses Termos e cancelar os seus serviços removendo todos os seus apps e Conteúdos. Você pode não receber qualquer reembolso se desistir do serviço ou se sua conta for cancelada, conforme descrito na seção 4.
+`11.2` Uma notificação válida deve identificar a obra supostamente violada, o conteúdo ou recurso apontado, informações suficientes para localizá-lo, dados de contato do reclamante e declaração de boa-fé sobre a violação alegada.
 
-`11.3` Você concorda que Discloud, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode encerrar sua conta ou qualquer parte dela. Você concorda que **qualquer rescisão de seu acesso** aos Serviços da Discloud pode ser, sem aviso prévio, e você concorda que Discloud não será responsabilizada por você ou qualquer parceiro por essa rescisão.
+`11.3` Notificações e contranotificações podem ser enviadas para [support@discloudbot.com](mailto:support@discloudbot.com).
 
-`11.4` Você é o único responsável pela exportação de seu conteúdo e Aplicação (s) a partir dos Serviços da Discloud antes do término de sua conta, por qualquer razão, desde que se encerrar sua conta, iremos fornecer-lhe uma oportunidade razoável para recuperar o seu conteúdo e aplicação (ões).
+`11.4` A Discloud pode suspender ou encerrar contas de usuários reincidentes em violações de direitos autorais.
 
-`11.5` Após o término dos Serviços da Discloud ou de sua conta, estes Termos também terminarão, mas Seções 1, 5, 6, 11, 12, 13, 14 e 17 devem continuar sendo eficazes depois destes Termos terminados.
+`11.5` Para usuários e reclamantes sujeitos à legislação dos Estados Unidos, a Discloud pode manter procedimentos compatíveis com o regime de safe harbor previsto em 17 U.S.C. § 512, sem que a simples publicação desta cláusula implique cumprimento automático de todos os requisitos legais aplicáveis.
 
-**`11.1` Nada nestes termos, inclusive as seções 12 e 13, deve excluir ou limitar responsabilidade ou garantia da Discloud por perdas que não possam ser legalmente excluídas ou limitadas pela lei aplicável.**
+`11.6` Para usuários sujeitos à legislação brasileira, as notificações serão também analisadas conforme a legislação nacional aplicável.
 
-**`11.2` O usuário entende e concorda que o uso do serviço Discloud é por sua conta e risco e que os serviços da Discloud são fornecidos "como estão" e "como disponível".**
+## 12. Suspensão, Bloqueio e Encerramento
 
-**`11.3` Discloud, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os serviços da Discloud, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, Discloud, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos serviços da Discloud atenderá a suas necessidades, (b) o uso dos serviços da Discloud será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através da Discloud serão precisos.**
+`12.1` A Discloud pode suspender, restringir ou encerrar contas ou aplicações que violem estes Termos, mediante aviso prévio sempre que razoavelmente possível, exceto em casos de risco à segurança, à infraestrutura ou a terceiros, quando a medida pode ser imediata.
 
-## `12.` Limitação de Responsabilidade
+`12.2` O usuário pode encerrar sua conta a qualquer momento, removendo suas aplicações e conteúdos ou solicitando a exclusão pelos canais de suporte.
 
-`12.1` Sujeito à Seção 12.1 ACIMA, O USUÁRIO ENTENDE E CONCORDA QUE A DISCLOUD, AS SUAS SUBSIDIÁRIAS E AFILIADAS E SEUS LICENCIADORES NÃO SERÃO RESPONSÁVEIS POR QUALQUER DANO DIRETO, INDIRETO, ACIDENTAL, OU CONSEQUÊNCIA DE DANOS ESPECIAIS QUE POSSAM SER SOFRIDOS POR VOCÊ, NO ENTANTO CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE. ESTA INFORMAÇÃO DEVE INCLUIR MAS NÃO SE LIMITANDO A, QUALQUER PERDA DE LUCROS (INCORRIDA DIRETA OU INDIRETAMENTE), QUALQUER PERDA DE BOA VONTADE OU REPUTAÇÃO DE NEGÓCIOS, SOFRER PERDA DE DADOS, CUSTOS DE AQUISIÇÃO DE BENS OU SERVIÇOS OU OUTRA PERDA INTANGÍVEL.
+`12.3` Encerrada a conta, o usuário terá uma oportunidade razoável para exportar seu conteúdo, ressalvados dados sujeitos a retenção legal obrigatória, conforme a Política de Privacidade.
 
-`12.2` AS LIMITAÇÕES DE RESPONSABILIDADE DA DISCLOUD PARA VOCÊ NO PARÁGRAFO 13.1 ACIMA, SERÃO APLICÁVEIS OU NÃO CASO A DISCLOUD TENHA SIDO AVISADO DE OU DEVERIA TER CONHECIMENTO DA POSSIBILIDADE DE OCORRÊNCIA DE TAIS PERDAS.
+`12.4` Valores já pagos não são automaticamente reembolsáveis em caso de encerramento por violação destes Termos, sem prejuízo dos direitos previstos na Seção 7.
 
-## `13.` Indenização
+## 13. Privacidade
 
-`13.1` Você concorda em isentar e indenizar A Discloud, e suas subsidiárias, afiliadas, diretores, agentes, funcionários, anunciantes, licenciadores, fornecedores ou parceiros (coletivamente "Discloud e Parceiros") de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos Termos, (b) o uso dos Serviços da Discloud, (c) violação de leis, normas ou regulamentos em conexão com os Serviços da Discloud, ou (d) o seu conteúdo ou a sua aplicação, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza. Em tal caso, Discloud irá fornecer-lhe um aviso por escrito de tal reclamação, processo ou ação.
+`13.1` O tratamento de dados pessoais pela Discloud é regido pela Política de Privacidade, apresentada na Parte II deste documento e também disponível em [https://discloud.com/legal](https://discloud.com/legal), que é parte integrante destes Termos.
 
-## `14.` Política de Direitos Autorais
+`13.2` Quando o usuário hospeda uma aplicação que coleta dados pessoais de seus próprios usuários finais, o usuário é responsável por suas obrigações de proteção de dados perante esses usuários finais, incluindo o fornecimento de aviso de privacidade adequado.
 
-`14.1` Você concorda em estabelecer um processo para responder a acusações de supostas infrações. É política da Discloud responder às notificações de qualquer origem ou outras leis de direitos autorais aplicáveis ​​e encerrar as contas de infratores reincidentes. Reservamo-nos o direito de remover conteúdo em sua aplicação ou, se necessário, o próprio aplicativo após o recebimento de uma notificação válida.
+## 14. Isenções e Limitação de Responsabilidade
 
-## `15.` Outros conteúdos
+`14.1` Os Serviços são fornecidos "como estão" e "conforme disponíveis". A Discloud se esforça para oferecer um serviço confiável e seguro, mas não garante que o uso será ininterrupto, pontual ou totalmente livre de erros.
 
-`15.1` O usuário reconhece e concorda que Discloud não é responsável pela disponibilidade de qualquer um desses sites ou recursos externos e não endossa qualquer publicidade, produtos ou outros materiais presentes ou disponíveis em tais bots ou recursos.
+`14.2` Na máxima extensão permitida pela legislação aplicável, a Discloud não será responsável por danos indiretos, incidentais ou consequenciais decorrentes do uso ou da impossibilidade de uso dos Serviços.
 
-`15.2` O usuário reconhece e concorda que Discloud não se responsabiliza por qualquer perda ou dano em que possa incorrer por você ou seus usuários finais como resultado da disponibilidade de tais sites ou recursos externos, ou como resultado da confiança depositada por você na integridade, precisão ou existência de quaisquer anúncios, produtos ou outros materiais presentes ou disponíveis a partir de tais sites ou recursos.
+`14.3` Nada nesta Seção exclui ou limita responsabilidade que não possa ser legalmente excluída ou limitada, incluindo, quando aplicável, responsabilidade por dolo, culpa grave ou violação de direitos obrigatórios do consumidor previstos no Código de Defesa do Consumidor.
 
-## `16.` Alterações nos Termos
+## 15. Indenização
 
-`16.1` Discloud pode fazer alterações nos Termos de tempos em tempos. Se mudarmos os Termos de nenhuma forma substantiva, damos-lhe, pelo menos, sete (7) dias de aviso antes que as alterações entrem em vigor, período de tempo que você pode rejeitar as alterações encerrando sua conta.
+`15.1` O usuário concorda em isentar e indenizar a Discloud, suas afiliadas, diretores, agentes e funcionários por reivindicações de terceiros decorrentes de violação destes Termos, uso indevido dos Serviços ou do conteúdo e aplicações hospedados pelo usuário, sem prejuízo de direitos que não possam ser afastados por contrato.
 
-`16.2` Você compreende e concorda que, se utilizar os Serviços da Discloud após a data em que os Termos foram alterados, Discloud tomará o seu uso como uma aceitação dos Termos atualizados.
+## 16. Manutenções
 
-## `17.` Termos jurídicos gerais
+`16.1` Manutenções podem ser realizadas sempre que necessário, podendo causar instabilidade ou indisponibilidade parcial ou total dos Serviços. Manutenções programadas serão comunicadas previamente pela página de status oficial, quando disponível.
 
-`17.1` Os Termos constituem o contrato integral entre você e a Discloud e regulam a utilização dos Serviços da Discloud (excluindo quaisquer serviços que possam eventualmente ser fornecidos com um contrato escrito em separado), e substituem na íntegra quaisquer contratos anteriores entre você e a Discloud em relação aos Serviços da Discloud.
+## 17. Recomendações
 
-`17.2` Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
+`17.1` A Discloud pode exibir recomendações de produtos ou serviços que possam interessar ao usuário, com base no uso da Plataforma. A Discloud não envia recomendações diretamente aos usuários finais das aplicações hospedadas.
 
-`17.3` Se Discloud fornece-lhe uma tradução da versão destes Termos, a versão destes Termos no idioma Português irá controlar qualquer conflito.
+## 18. Usuários Internacionais
 
-`17.4` Você concorda que Discloud pode lhe enviar avisos, incluindo aqueles sobre alterações feitas aos Termos, por e-mail, ou publicações nos Serviços da Discloud. Ao fornecer o seu endereço de e-mail Discloud, você concorda em utilizarmos o endereço de e-mail para enviar-lhe quaisquer avisos exigidos por lei.
+`18.1` Estes Termos adotam uma base uniforme aplicável a todos os usuários da Discloud, em qualquer país.
 
-`17.5` Você concorda que se Discloud não exercer ou utilizar qualquer direito legal ou direito reconhecido contido nos Termos (ou ao qual Discloud tem direito nos termos de qualquer lei aplicável), isso não será considerado como uma renúncia formal aos direitos da Discloud e que esses direitos ou recursos ainda estarão disponíveis para Discloud.
+`18.2` Direitos obrigatórios previstos na legislação de proteção ao consumidor ou de proteção de dados do país de residência do usuário permanecem aplicáveis, na medida em que não possam ser afastados por contrato.
 
-`17.6` A Discloud não será responsável por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+## 19. Alterações nestes Termos
 
-`17.7` Os Termos, e o relacionamento entre a Discloud conforme os Termos, serão regidos pelas leis do Estado da Flórida, EUA, independentemente do conflito de cláusulas legais. Você e Discloud concordam em submeter exclusivamente aos tribunais federais localizados no condado de Orange, EUA, a resolução de quaisquer questões legais resultantes dos Termos.
+`19.1` A Discloud pode alterar estes Termos a qualquer momento. A versão vigente estará sempre disponível em [https://discloud.com/legal](https://discloud.com/legal).
 
-`17.8` Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
+`19.2` Alterações relevantes serão comunicadas por meios razoáveis, como aviso na Plataforma, Dashboard ou e-mail cadastrado. O uso continuado dos Serviços após a alteração implica concordância com a nova versão.
 
+## 20. Lei Aplicável e Foro
+
+`20.1` Estes Termos são regidos pela legislação brasileira, sem prejuízo de direitos obrigatórios do usuário previstos na legislação de sua própria jurisdição, conforme a Seção 18.
+
+`20.2` Fica eleito o foro do domicílio da Discloud para dirimir eventuais controvérsias, ressalvada a competência de foro diverso quando a lei aplicável ao consumidor assim determinar.
+
+## 21. Disposições Gerais
+
+`21.1` Se qualquer disposição destes Termos for considerada inválida ou inaplicável, as demais disposições permanecem em vigor.
+
+`21.2` A tolerância quanto ao descumprimento de qualquer cláusula não implica renúncia ao direito de exigi-la posteriormente.
+
+`21.3` Estes Termos, em conjunto com a Política de Privacidade e com a Política de Uso, constituem o acordo integral entre o usuário e a Discloud em relação ao uso dos Serviços.
+
+## 22. Contato
+
+**Suporte geral:** [support@discloudbot.com](mailto:support@discloudbot.com)
+**Direitos autorais:** [support@discloudbot.com](mailto:support@discloudbot.com)
+**Privacidade:** [support@discloudbot.com](mailto:support@discloudbot.com)
+**Termos e políticas vigentes:** [https://discloud.com/legal](https://discloud.com/legal)
+
+---
 
 # Política de Privacidade
 
-## 1. Introdução
+* Última atualização: 15 de setembro de 2026
+* Efetividade original: 1 de junho de 2019
 
-A Discloud respeita sua privacidade e está comprometida com a proteção dos seus dados pessoais.
+**Discloud** (Discloud LTDA)
+CNPJ: 68.044.894/0001-55
+Termos legais e políticas: [https://discloud.com/legal](https://discloud.com/legal)
+Contato de privacidade: [support@discloudbot.com](mailto:support@discloudbot.com)
 
-Esta Política explica quais informações coletamos, por que as coletamos e como as utilizamos.
+A Discloud trata dados pessoais para operar seus serviços de hospedagem e demais produtos oferecidos na Plataforma, incluindo segurança, suporte, cobrança e administração de contas.
 
-## 2. Dados Coletados
+Esta Política foi estruturada considerando especialmente a **LGPD brasileira** (Lei nº 13.709/2018), o **Marco Civil da Internet** (Lei nº 12.965/2014) e, quando aplicável ao usuário, normas de privacidade de outras jurisdições, como as dos Estados Unidos. Direitos obrigatórios previstos pela legislação local do titular permanecem aplicáveis.
 
-Ao utilizar nossos serviços, podemos coletar:
+## 1. Quem somos
 
-* Nome de usuário
-* Identificador único da conta (ID)
-* Endereço de e-mail
-* Endereço IP
-* Registros de acesso e autenticação
+Nos tratamentos em que a Discloud determina as finalidades e os meios do tratamento, ela atua como **controladora**.
 
-## 3. Finalidade da Coleta
+Quando a Discloud processa dados exclusivamente em nome de um cliente, conforme as instruções deste, a relação pode ser de **operadora**, nos termos da legislação aplicável.
 
-Os dados são utilizados para:
+A classificação pode variar conforme o serviço e o tratamento realizado.
 
-* Criar e gerenciar sua conta;
-* Fornecer acesso aos serviços da Discloud;
-* Prevenir fraudes, abusos e atividades maliciosas;
-* Garantir a segurança da plataforma;
-* Cumprir obrigações legais quando aplicável;
-* Entrar em contato sobre assuntos relacionados à sua conta.
+## 2. Dados que podemos coletar
 
-## 4. Dados Hospedados pelos Clientes
+Dependendo do uso dos Serviços, a Discloud pode tratar:
 
-As aplicações hospedadas na Discloud podem armazenar dados definidos pelos próprios clientes.
+- nome;
+- endereço de e-mail;
+- identificadores de conta;
+- avatar e informações disponibilizadas por login de terceiros;
+- endereço IP;
+- identificadores de sessão;
+- informações de dispositivo e navegador;
+- registros de acesso;
+- informações de cobrança e assinatura;
+- informações de suporte;
+- dados de uso e consumo de recursos;
+- eventos de segurança e abuso;
+- informações fornecidas em solicitações de suporte;
+- informações necessárias para cumprir obrigações legais.
 
-A Discloud não acessa, monitora ou utiliza esses dados, exceto quando necessário para garantir a segurança, estabilidade da plataforma ou cumprimento de obrigações legais.
+A Discloud não pretende coletar dados pessoais além do necessário para as finalidades descritas nesta Política.
 
-O cliente é responsável pelos dados armazenados em suas aplicações e pelo cumprimento das leis aplicáveis.
+## 3. Conteúdo hospedado pelo usuário
 
-## 5. Compartilhamento de Dados
+O conteúdo hospedado pelo usuário pode conter dados pessoais de terceiros.
 
-A Discloud não vende dados pessoais.
+Quando o usuário utiliza a Discloud para hospedar sua própria aplicação e determina por que e como os dados de seus usuários finais são tratados, o usuário é responsável por suas próprias obrigações de proteção de dados perante esses usuários finais.
 
-Os dados poderão ser compartilhados apenas:
+A Discloud pode processar tecnicamente esse conteúdo para fornecer o serviço, incluindo armazenamento, execução, transmissão, backup técnico, segurança e recuperação.
 
-* Quando exigido por lei;
-* Mediante ordem judicial;
-* Para investigação de fraudes, abusos ou incidentes de segurança.
+## 4. Finalidades do tratamento
 
-## 6. Armazenamento e Segurança
+Os dados podem ser utilizados para:
 
-Adotamos medidas técnicas e organizacionais para proteger os dados contra acesso não autorizado, alteração, divulgação ou destruição indevida.
+1. criar e administrar contas;
+2. fornecer os Serviços;
+3. processar pagamentos;
+4. prestar suporte;
+5. prevenir fraude e abuso;
+6. detectar malware e ameaças;
+7. proteger usuários e infraestrutura;
+8. manter registros exigidos por lei;
+9. cumprir ordens judiciais ou solicitações de autoridades competentes;
+10. comunicar alterações, incidentes e informações relevantes do serviço;
+11. analisar desempenho e capacidade da infraestrutura;
+12. melhorar os Serviços;
+13. exercer ou defender direitos em processos administrativos, judiciais ou arbitrais;
+14. cumprir outras finalidades informadas ao titular ou permitidas pela legislação aplicável.
 
-## 7. Retenção de Dados
+## 5. Bases legais
 
-Os dados poderão ser mantidos enquanto a conta permanecer ativa ou pelo período necessário para cumprimento de obrigações legais, prevenção de fraudes e resolução de disputas.
+Quando a LGPD for aplicável, o tratamento pode se basear, conforme o caso, em:
 
-## 8. Direitos do Usuário
+- execução de contrato;
+- cumprimento de obrigação legal ou regulatória;
+- exercício regular de direitos;
+- legítimo interesse;
+- consentimento;
+- proteção da vida ou da incolumidade física;
+- proteção do crédito;
+- outras bases legalmente previstas.
 
-Nos termos da legislação aplicável, você pode solicitar:
+A base legal aplicável depende da finalidade específica do tratamento.
 
-* Acesso aos seus dados;
-* Correção de informações incorretas;
-* Exclusão de dados quando legalmente possível;
-* Informações sobre o tratamento realizado.
+## 6. Cookies e tecnologias semelhantes
 
-## 9. Alterações desta Política
+A Discloud pode utilizar cookies, armazenamento local, identificadores de sessão e tecnologias semelhantes para autenticação, segurança, preferências, métricas e funcionamento do serviço.
 
-Esta Política poderá ser atualizada periodicamente.
+Quando exigido, mecanismos de consentimento serão apresentados ao usuário antes do uso dessas tecnologias para finalidades não essenciais.
 
-A versão mais recente estará sempre disponível no site da Discloud.
+## 7. Compartilhamento de dados
 
-## 10. Contato
+A Discloud pode compartilhar dados com:
 
-Dúvidas relacionadas à privacidade podem ser encaminhadas para:
+- processadores de pagamento;
+- provedores de infraestrutura;
+- provedores de armazenamento e backup;
+- provedores de monitoramento e segurança;
+- serviços de autenticação;
+- ferramentas de suporte;
+- prestadores necessários à operação dos Serviços;
+- autoridades públicas, quando legalmente exigido;
+- assessores profissionais sujeitos a deveres de confidencialidade.
 
-[abuse@discloud.com](mailto:abuse@discloudbot.com)
+A Discloud não comercializa dados pessoais no sentido de vender uma base de dados a terceiros.
 
+## 8. Transferências internacionais
+
+Como serviço com alcance global, a Discloud e seus fornecedores podem processar dados em diferentes países.
+
+Quando a LGPD for aplicável, as transferências internacionais observarão os mecanismos e requisitos previstos na legislação e na regulamentação vigentes.
+
+## 9. Segurança da informação
+
+A Discloud utiliza medidas técnicas e administrativas razoáveis para proteger dados e infraestrutura, o que pode incluir controle de acesso, isolamento, criptografia quando apropriada, monitoramento, backups, snapshots, registros e mecanismos antifraude.
+
+Nenhum sistema conectado à internet pode ser considerado absolutamente seguro, e a Discloud não garante segurança absoluta contra incidentes.
+
+## 10. Retenção de dados
+
+Os dados são mantidos pelo período necessário para cumprir as finalidades desta Política, obrigações legais, segurança, prevenção a fraude, resolução de disputas e exercício de direitos.
+
+Alguns registros podem precisar ser mantidos mesmo após a exclusão da conta, quando houver obrigação legal específica.
+
+## 11. Direitos do titular
+
+Quando a LGPD ou outra legislação aplicável conceder esses direitos, o titular pode solicitar:
+
+- confirmação da existência de tratamento;
+- acesso aos dados;
+- correção de dados incompletos, inexatos ou desatualizados;
+- anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade com a lei;
+- portabilidade, quando aplicável;
+- informação sobre compartilhamentos realizados;
+- revogação de consentimento;
+- oposição, quando cabível;
+- revisão de decisões automatizadas, quando aplicável.
+
+A eliminação de dados não é absoluta: parte dos dados pode ser mantida quando a lei exigir ou autorizar sua retenção, conforme detalhado na Seção 10.
+
+## 12. Exclusão pelo Dashboard
+
+`12.1` Quando a funcionalidade estiver disponível, o usuário pode solicitar a exclusão de sua conta e de seus dados diretamente pelo Dashboard da Discloud.
+
+`12.2` A solicitação de exclusão é processada conforme as regras técnicas e legais aplicáveis.
+
+`12.3` A exclusão da conta pode resultar na exclusão do conteúdo hospedado e dos recursos associados.
+
+`12.4` Alguns registros podem permanecer por períodos legalmente exigidos, para segurança, auditoria, prevenção a fraude, cumprimento de obrigações legais ou exercício de direitos.
+
+`12.5` Backups e snapshots podem permanecer temporariamente em sistemas de recuperação até sua expiração normal, salvo obrigação de retenção diferente.
+
+## 13. Registros de acesso (Marco Civil da Internet)
+
+Quando aplicável, a Discloud pode manter registros de acesso a aplicações pelo período legalmente exigido, em ambiente controlado e seguro.
+
+Esses registros não são divulgados livremente e podem ser fornecidos apenas quando houver base legal adequada, inclusive ordem judicial, quando exigida pela legislação aplicável.
+
+## 14. Incidentes de segurança
+
+Caso ocorra incidente envolvendo dados pessoais, a Discloud avaliará o evento e adotará as medidas exigidas pela legislação aplicável, incluindo, quando necessário, comunicação às autoridades competentes e aos titulares afetados.
+
+## 15. Crianças e adolescentes
+
+Os Serviços não devem ser utilizados para tratamento irregular de dados de crianças ou adolescentes.
+
+Quando a legislação aplicável exigir consentimento específico dos responsáveis legais ou outras salvaguardas, essas exigências devem ser observadas por quem hospeda aplicações voltadas a esse público.
+
+## 16. Direitos de usuários de outras jurisdições
+
+Dependendo do país e do estado de residência, usuários podem possuir direitos adicionais de privacidade, como acesso, correção, exclusão ou opção de não participar de determinadas formas de tratamento, conforme a legislação local aplicável.
+
+A Discloud avaliará a aplicabilidade de cada solicitação conforme a legislação vigente e o contexto do tratamento envolvido.
+
+## 17. Encarregado e canal de privacidade
+
+Solicitações relacionadas a privacidade e proteção de dados podem ser enviadas para:
+
+**[support@discloudbot.com](mailto:support@discloudbot.com)**
+
+A Discloud pode indicar formalmente seu encarregado pelo tratamento de dados (DPO) e publicar os respectivos dados de contato em [https://discloud.com/legal](https://discloud.com/legal).
+
+## 18. Alterações nesta Política
+
+Esta Política pode ser atualizada para refletir alterações legais, técnicas ou operacionais. A versão vigente estará sempre disponível em [https://discloud.com/legal](https://discloud.com/legal).
+
+Alterações relevantes serão comunicadas por meios razoáveis, como aviso na Plataforma, no Dashboard ou por e-mail cadastrado.
+
+## 19. Contato
+
+**Privacidade:** [support@discloudbot.com](mailto:support@discloudbot.com)
+**Suporte:** [support@discloudbot.com](mailto:support@discloudbot.com)
+**Termos e políticas vigentes:** [https://discloud.com/legal](https://discloud.com/legal)
